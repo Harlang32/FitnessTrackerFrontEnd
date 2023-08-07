@@ -1,4 +1,4 @@
-function MyRoutines() {
+const MyRoutines = () => {
   return <h1>MyRoutines</h1>;
 }
 

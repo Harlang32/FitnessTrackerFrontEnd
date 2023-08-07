@@ -1,4 +1,4 @@
-function Routines() {
+const Routines = () => {
   return <h1>Routines</h1>;
 }
 
