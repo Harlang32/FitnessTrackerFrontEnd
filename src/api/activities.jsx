@@ -85,9 +85,9 @@ const getPublicActivityByActivity = async () => {
   }
 };
 
-// export default {
-//   getActivities,
-//   newActivity,
-//   updateActivity,
-//   getPublicActivityByActivity,
-// };
+export default {
+  getActivities,
+  newActivity,
+  updateActivity,
+  getPublicActivityByActivity,
+};
